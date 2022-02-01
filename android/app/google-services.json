@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "559608695589",
+    "project_id": "make-me-laugh-ec101",
+    "storage_bucket": "make-me-laugh-ec101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559608695589:android:bbe64b1bfdece784b2a8cc",
+        "android_client_info": {
+          "package_name": "com.made.me.laugh.made_me_laugh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559608695589-3v0jca52q0jgbrdugn6rkp2ov1p8og41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgEr7TfgZ-Tlq-aHIil9saa7VBAYOHvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559608695589-3v0jca52q0jgbrdugn6rkp2ov1p8og41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559608695589-ec5kgr0lu4ajj73jcnerdnbbhvh189a1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.made.me.laugh.madeMeLaugh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
