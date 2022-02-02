@@ -1,16 +1,21 @@
-# made_me_laugh
+# l ضحكني شكراً
+![ic_launcher](https://user-images.githubusercontent.com/33913003/152251797-40035f31-2fdd-49c3-a4ed-c974764eb426.png)
 
-A new Flutter project.
+A new Flutter project for Arabic Jokes.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple project for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Futures
+- BloC as State Management
+- Firebase as back-end
+- Firebase Fire Store for saving data
+- Firebase Cloud Messaging (FCM)
+- share_plus for Sharing jokes with others
+- Just_audio for Audio Player
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Preview :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![P6YUM71 copy](https://user-images.githubusercontent.com/33913003/152255302-967d16fa-457e-4c4e-86a0-082d7770e0de.png)
+
